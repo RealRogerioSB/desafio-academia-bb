@@ -1,2 +1,2 @@
-# desafio-academia-bb
+# AcademIABB
 Desafio de AcademIA BB

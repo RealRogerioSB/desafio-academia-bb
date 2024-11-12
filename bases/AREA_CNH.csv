@@ -1,0 +1,26 @@
+"CD_AREA_CNH","NM_AREA_CNH","IN_AREA_ATI"
+10,AREA DE ADMINISTRACAO                                                           ,S
+11,AREA DE CIENCIAS SOCIAS APLICADAS                                               ,S
+20,AREA DE ARTES                                                                   ,S
+25,AREA DE CIENCIA DA INFORMACAO                                                   ,S
+30,AREA DE CIENCIAS CONTABEIS                                                      ,S
+35,AREA DE CIENCIAS ATUARIAIS                                                      ,S
+40,AREA DE CIENCIAS BIOLOGICAS                                                     ,S
+50,AREA DE CIENCIAS HUMANAS                                                        ,S
+55,AREA DE LETRAS E LINGUISTICA                                                    ,S
+70,AREA DE COMUNICACAO                                                             ,S
+90,AREA DE DIREITO                                                                 ,S
+100,AREA DE ECONOMIA                                                                ,S
+110,AREA DE EDUCACAO                                                                ,S
+120,AREA DE ENGENHARIA                                                              ,S
+150,AREA DE CIENCIAS DA TERRA                                                       ,S
+160,COMPUTAçãO                                                                      ,S
+161,AREA DE COMPUTACAO                                                              ,S
+170,AREA DE COMPUTACAO                                                              ,S
+180,AREA DE CIENCIAS EXATAS                                                         ,S
+185,AREA DE CIENCIAS AGRARIAS                                                       ,S
+190,AREA DE PRODUTOS E SERVIÇOS DO BANCO                                            ,S
+195,AREA DE PSICOLOGIA                                                              ,S
+208,AREA DE CIENCIAS DA SAUDE                                                       ,S
+230,OUTRAS AREAS                                                                    ,S
+900,A CLASSIFICAR                                                                   ,S

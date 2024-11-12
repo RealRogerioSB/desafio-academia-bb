@@ -1,0 +1,376 @@
+"CD_AREA_CNH","CD_SUB_AREA_CNH","NM_SUB_AREA_CNH","IN_SUB_AREA_ATI"
+10,1,ADMINISTRACAO DE EMPRESAS                                                       ,S
+10,20,ADM. - COMERCIO EXTERIOR                                                        ,S
+10,21,ADM. - FINANCAS INTERNACIONAIS                                                  ,S
+10,60,ADM. FINANCEIRA                                                                 ,S
+10,80,ADMINISTRACAO HOSPITALAR                                                        ,S
+10,90,ADM. - INFORMACAO                                                               ,S
+10,100,ADM. - RECURSOS HUMANOS                                                         ,S
+10,110,ADM.- GESTAO AMBIENTAL (DRS&RSA)                                                ,S
+10,115,ADMINISTRACAO DO TERCEIRO SETOR                                                 ,S
+10,120,ADM.- RURAL                                                                     ,S
+10,130,AGRICULTURA                                                                     ,S
+10,140,ADM.- RECURSOS MATERIAIS                                                        ,S
+10,160,ADM. - PUBLICA                                                                  ,S
+10,170,ADM - CREDITO IMOBILIARIO                                                       ,S
+10,200,ADM.- MARKETING                                                                 ,S
+10,240,ADMINISTRACAO - QUALIDADE                                                       ,S
+10,260,ADM. - PROJETOS                                                                 ,S
+10,270,ADM - GESTAO DE PROCESSOS                                                       ,S
+10,280,ADM. - ESTRATEGICA                                                              ,S
+10,300,ADM. - SEGURANCA                                                                ,S
+10,310,ADM. - SISTEMAS DE INFORMACAO                                                   ,S
+10,320,ADM. POSTAL                                                                     ,S
+10,330,ADM - AUDITORIA                                                                 ,S
+10,340,FORMACAO DE EXECUTIVOS                                                          ,S
+10,350,ADM.ANALISE DE SISTEMAS                                                         ,S
+10,360,ASCENSÃO PROFISSIONAL                                                           ,S
+10,370,GOVERNANCA CORPORATIVA                                                          ,S
+10,380,ADM. - GESTAO DE OBRAS                                                          ,S
+10,390,ADM. - GESTAO CONTABIL                                                          ,S
+10,400,ADM. - IMOBILIARIO                                                              ,S
+10,401,NEGÓCIOS                                                                        ,S
+11,1,ARQUIVOLOGIA                                                                    ,S
+11,2,ARQUITETURA E URBANISMO                                                         ,S
+11,3,BIBLIOTECONOMIA                                                                 ,S
+11,4,DESENHO INDUSTRIAL                                                              ,S
+11,5,ECONOMIA DOMESTICA                                                              ,S
+11,6,MUSEOLOGIA                                                                      ,S
+11,7,SECRETARIADO EXECUTIVO                                                          ,S
+11,8,SERVICO SOCIAL                                                                  ,S
+11,9,TURISMO E HOTELARIA                                                             ,S
+11,11,TECNOLOGIA SOCIAL                                                               ,S
+11,12,MEIO AMBIENTE                                                                   ,S
+20,1,ARTES                                                                           ,S
+20,2,FOTOGRAFIA                                                                      ,S
+20,20,TEATRO                                                                          ,S
+20,30,GRAFICAS                                                                        ,S
+20,60,MUSICA                                                                          ,S
+20,80,ARTES PLASTICAS                                                                 ,S
+20,90,DANCA                                                                           ,S
+25,10,CIENCIA DA INFORMACAO                                                           ,S
+25,30,INTELIGENCIA COMPETITIVA - IC                                                   ,S
+30,1,CONTABILIDADE GERAL                                                             ,S
+30,4,CONTABILIDADE FISCAL                                                            ,S
+30,5,CONTABILIDADE GERENCIAL                                                         ,S
+30,6,CONTABILIDADE INTERNACIONAL                                                     ,S
+30,10,CONTABILIDADE PUBLICA                                                           ,S
+30,20,ANALISE DE BALANCO                                                              ,S
+30,30,CONTABILIDADE DE CUSTO                                                          ,S
+30,40,AUDITORIA E PERICIA CONTABIL                                                    ,S
+30,50,CONTABILIDADE DE INSTITUICOES FINANCEIRAS                                       ,S
+30,80,CONTROLADORIA                                                                   ,S
+35,1,CIENCIAS ATUARIAIS                                                              ,S
+35,2,SEGUROS                                                                         ,S
+35,3,PREVIDENCIA                                                                     ,S
+40,20,BIOLOGIA GERAL                                                                  ,S
+40,30,BIOMEDICINA                                                                     ,S
+40,40,BOTANICA                                                                        ,S
+40,60,ECOLOGIA                                                                        ,S
+40,70,MEIO AMBIENTE                                                                   ,S
+40,100,FISIOLOGIA                                                                      ,S
+50,1,CIENCIAS HUMANAS                                                                ,S
+50,10,ARQUEOLOGIA                                                                     ,S
+50,20,FILOSOFIA                                                                       ,S
+50,30,ANTROPOLOGIA                                                                    ,S
+50,40,HISTORIA                                                                        ,S
+50,50,CIENCIA POLITICA                                                                ,S
+50,60,CIENCIAS SOCIAIS                                                                ,S
+50,70,ESTUDOS SOCIAIS                                                                 ,S
+50,100,TEOLOGIA                                                                        ,S
+50,110,GEOGRAFIA                                                                       ,S
+50,120,RELACOES INTERNACIONAIS                                                         ,S
+50,130,SOCIOLOGIA                                                                      ,S
+50,140,DESENVOLVIMENTO SUSTENTAVEL                                                     ,S
+55,1,LETRAS E LINGUISTICA                                                            ,S
+55,10,LINGUA LATINA                                                                   ,S
+55,20,LINGUA ALEMA                                                                    ,S
+55,40,LINGUA CHINESA                                                                  ,S
+55,50,LINGUA DINAMARQUESA                                                             ,S
+55,60,LINGUA ESPANHOLA                                                                ,S
+55,80,LINGUA FRANCESA                                                                 ,S
+55,100,LINGUA INGLESA                                                                  ,S
+55,120,LINGUA ITALIANA                                                                 ,S
+55,140,LINGUA JAPONESA                                                                 ,S
+55,160,PORTUGUES E LITERATURA                                                          ,S
+55,180,LINGUA RUSSA                                                                    ,S
+55,200,LINGUA ARABE                                                                    ,S
+55,240,LINGUA GREGA                                                                    ,S
+55,260,LINGUA HEBRAICA                                                                 ,S
+55,280,LINGUA HOLANDESA                                                                ,S
+55,300,LINGUA POLONESA                                                                 ,S
+55,320,LINGUA ARMENIA                                                                  ,S
+55,330,LINGUA ISLANDESA                                                                ,S
+70,1,COMUNICACAO                                                                     ,S
+70,2,RETORICA ORATORIA                                                               ,S
+70,20,CINEMATOGRAFIA                                                                  ,S
+70,40,COMUNICACAO VISUAL                                                              ,S
+70,50,COMUNICACAO DIGITAL E MIDIAS SOCIAIS                                            ,S
+70,80,JORNALISMO                                                                      ,S
+70,120,PRODUCAO EDITORIAL                                                              ,S
+70,130,PRODUCAO PUBLICITARIA                                                           ,S
+70,140,PUBLICIDADE E PROPAGANDA                                                        ,S
+70,160,RADIO E TELEVISAO                                                               ,S
+70,180,RELACOES PUBLICAS                                                               ,S
+90,1,DIREITO                                                                         ,S
+90,20,DIREITO ADMINISTRATIVO                                                          ,S
+90,30,DIREITO BANCARIO                                                                ,S
+90,40,DIREITO CIVIL                                                                   ,S
+90,60,DIREITO COMERCIAL                                                               ,S
+90,80,DIREITO CONSTITUCIONAL                                                          ,S
+90,90,DIREITO DA ECONOMIA E DA EMPRESA                                                ,S
+90,100,DIREITO DO TRABALHO E PREVIDENCIARIO                                            ,S
+90,120,DIREITO ESTATAL                                                                 ,S
+90,140,DIREITO TRIBUTARIO                                                              ,S
+90,160,DIREITO INTERNACIONAL                                                           ,S
+90,180,DIREITO PENAL                                                                   ,S
+90,200,DIREITO POLITICO                                                                ,S
+90,220,DIREITO PRIVADO                                                                 ,S
+90,240,DIREITO PROCESSUAL                                                              ,S
+90,260,DIREITO PUBLICO                                                                 ,S
+90,280,DIREITO AMBIENTAL                                                               ,S
+90,300,DIREITO IMOBILIARIO                                                             ,S
+100,1,ECONOMIA                                                                        ,S
+100,20,ECONOMIA APLICADA                                                               ,S
+100,50,ECONOMIA INTERNACIONAL                                                          ,S
+100,60,ECONOMIA DO SETOR PUBLICO                                                       ,S
+100,70,ECONOMIA MONETARIA E FISCAL                                                     ,S
+100,80,ECONOMIA INDUSTRIAL E DA TECNOLOGIA                                             ,S
+100,100,ECONOMIA AGRICOLA E RURAL                                                       ,S
+100,110,ECONOMIA REGIONAL E URBANA                                                      ,S
+110,1,EDUCACAO                                                                        ,S
+110,40,PEDAGOGIA                                                                       ,S
+110,50,MAGISTERIO - ENSINO FUNDAMENTAL                                                 ,S
+120,1,ENGENHARIA                                                                      ,S
+120,40,ENGENHARIA DE AVALIACOES                                                        ,S
+120,60,ENGENHARIA AEROESPACIAL                                                         ,S
+120,100,ENGENHARIA CIVIL                                                                ,S
+120,110,ENGENHARIA DA COMPUTACAO                                                        ,S
+120,113,ENGENHARIA DE CONTROLE E AUTOMACAO                                              ,S
+120,115,ENGENHARIA DE SOFTWARE                                                          ,S
+120,180,"ENGENHARIA DE PRODUCAO, INDUSTRIA E OPERACOES                                   ",S
+120,190,"ENGENHARIA DE PRODUCAO, RECURSOS HUMANOS                                        ",S
+120,220,ENGENHARIA ELETRICA                                                             ,S
+120,240,ENGENHARIA ELETRONICA                                                           ,S
+120,280,ENGENHARIA MECANICA                                                             ,S
+120,300,ENGENHARIA NAVAL E OCEANICA                                                     ,S
+120,320,ENGENHARIA NUCLEAR                                                              ,S
+120,340,ENGENHARIA QUIMICA                                                              ,S
+120,360,ENGENHARIA SANITARIA                                                            ,S
+120,380,ENGENHARIA DE MATERIAIS E METALURGIA                                            ,S
+120,420,ENGENHARIA DE MINAS                                                             ,S
+120,440,ENGENHARIA DE TELECOMUNICAÇÕES                                                  ,S
+150,1,GEOCIENCIAS                                                                     ,S
+150,10,OCEANOGRAFIA                                                                    ,S
+150,20,ASTRONOMIA                                                                      ,S
+150,80,GEOLOGIA                                                                        ,S
+160,10,ARMAZENAMENTO DE DADOS                                                          ,S
+160,20,ARQUITETURA DE DADOS                                                            ,S
+160,30,ARQUITETURA E DESIGN                                                            ,S
+160,40,AUTOMACAO DE ESCRITORIO                                                         ,S
+160,50,"BI - BUSINESS INTELIGENCE, CONCEITOS                                            ",S
+160,60,BI - SOFTWARE ANALISE ESTATISTICA                                               ,S
+160,70,BI - SOFTWARE ETL - EXTRACAO TRANSFORMACAO E CARGA                              ,S
+160,80,BI - SOFTWARE FERRAMENTAS OLAP/MOLAP                                            ,S
+160,90,BI - SOFTWARE GERACAO RELATORIOS E QUERY REPORT                                 ,S
+160,100,BI - SOFTWARE PESQUISA TEXTUAL                                                  ,S
+160,110,CIENCIA DA COMPUTACAO                                                           ,S
+160,120,CRIPTOGRAFIA E SEGURANCA DE DADOS                                               ,S
+160,130,DISCIPLINAS DO DESENVOLVIMENTO DE SISTEMAS                                      ,S
+160,131,DESENV. SISTEMAS ENTRETENIMENTO DIGITAL                                         ,S
+160,140,EDI - ELETRONIC DATA INTERCHANGE                                                ,S
+160,150,FERRAMENTAS DE APOIO AO DESENVOLVIMENTO                                         ,S
+160,160,FERRAMENTAS DE STRESS                                                           ,S
+160,170,"GED - GERENCIAMENTO ELETR.DE DOCUMENTOS, CONCEITOS                              ",S
+160,180,"GED - GERENCIAMENTO ELETR.DE DOCUMENTOS, SOFTWARE                               ",S
+160,190,GERENCIADORES DE BANCOS DE DADOS OUTRAS PLATAFORM.                              ,S
+160,200,GERENCIADORES DE BANCOS DE DADOS PARA GRANDE PORTE                              ,S
+160,210,GERENCIADORES DE IMPRESSAO E DATASPACE                                          ,S
+160,220,GERENCIADORES DE TRANSACOES PARA GRANDE PORTE                                   ,S
+160,230,GERENCIAMENTO DE REDES E SISTEMAS DISTRIBUIDOS                                  ,S
+160,240,GERENCIAMENTO DE REDES E SISTEMAS EM MAINFRAME                                  ,S
+160,250,GESTAO DE PROCESSOS EM TECNOLOGIA DA INFORMACAO                                 ,S
+160,260,GESTAO DE PROJETOS EM TECNOLOGIA DA INFORMACAO                                  ,S
+160,270,"HARDWARE, DIVERSOS - ESPECIFICACAO/HOMOLOGACAO                                  ",S
+160,280,"HARDWARE, SERVIDORES GRANDE PORTE/HIGH-END                                      ",S
+160,290,INFORMATICA                                                                     ,S
+160,300,"INTELIGENCIA ARTIFICIAL, CONCEITOS                                              ",S
+160,310,LEGISLACAO ESPECIFICA                                                           ,S
+160,320,LINGUAGENS DE PROGRAMACAO                                                       ,S
+160,330,METODOLOGIAS DE DESENVOLVIMENTO DE SISTEMAS                                     ,S
+160,340,MODELAGEM                                                                       ,S
+160,350,MONITORES PARA GRANDE PORTE                                                     ,S
+160,360,PROCESSAMENTO DE DADOS                                                          ,S
+160,370,PRODUTOS E SOLUCOES EM TECNOLOGIA DA INFORMACAO                                 ,S
+160,379,REDES                                                                           ,S
+160,380,"REDES, ARQUITETURA SNA                                                          ",S
+160,390,"REDES, ARQUITETURA TCP/IP                                                       ",S
+160,400,"REDES, CONFIGURACAO DE ELEMENTOS                                                ",S
+160,410,"REDES, DESENHO LOGICO/FISICO                                                    ",S
+160,420,"REDES, PROTOCOLOS LAN/MAN/WAN                                                   ",S
+160,430,SEGURANCA EM TI                                                                 ,S
+160,440,SERVIDORES DE APLICACAO                                                         ,S
+160,450,SERVIDORES DE PORTAL                                                            ,S
+160,460,SERVIDORES HTTP                                                                 ,S
+160,470,SISTEMAS OPERACIONAIS DE GRANDE PORTE                                           ,S
+160,480,SISTEMAS OPERACIONAIS UNIX                                                      ,S
+160,490,SISTEMAS OPERACIONAIS WINDOWS                                                   ,S
+160,500,"SISTEMAS OPERACIONAIS, OUTROS                                                   ",S
+160,510,SOFTWARE BASICO/UTILITARIOS PARA GRANDE PORTE                                   ,S
+160,520,SOFTWARE BASICO/UTILITARIOS P/OUTRAS PLATAFORMAS                                ,S
+160,530,SOFTWARE BASICO/UTILITARIOS PARA UNIX                                           ,S
+160,540,SOFTWARE BASICO/UTILITARIOS PARA WINDOWS                                        ,S
+160,550,SUB-ROTINAS E UTILITARIOS ASSEMBLER                                             ,S
+160,560,TECNOLOGIAS DE INTEGRACAO                                                       ,S
+160,570,TECNOLOGIAS WEB                                                                 ,S
+160,579,TELECOMUNICAÇOES                                                                ,S
+160,580,"TELECOM, CALCULO DE ENLACES                                                     ",S
+160,590,"TELECOM, COMPONENTES DE SIST. DE TRANSMISSAO                                    ",S
+160,600,"TELECOM, EQUIP. DE MEDICAO E TESTES                                             ",S
+160,610,"TELECOM, MEIOS DE COMUNICACAO                                                   ",S
+160,620,"TELECOM, MULTIPLEXACAO                                                          ",S
+160,630,"TELECOM, TECNOL. DE REDES SATELITE                                              ",S
+160,640,"TELECOM, TECNOL. DE REDES TERRESTRE                                             ",S
+160,650,"TELECOM, TECNOL. EM SISTEMAS CELULARES                                          ",S
+160,660,"TELECOM, VOZ, VIDEO E CALL CENTER                                               ",S
+160,700,BANCO DE DADOS                                                                  ,S
+160,710,SOFTWARE BASICO                                                                 ,S
+160,720,HARDWARE                                                                        ,S
+160,730,"ANTISPAM, INSTALACAO/ADMINISTRACAO                                              ",S
+160,740,"APACHE, INSTALACAO/ADMINISTRACAO                                                ",S
+160,750,"APARELHOS DE TELEFONIA MOVEL, ESPECIF./HOMOLOGACAO                              ",S
+160,760,ENGENHARIA DE COMPUTACAO                                                        ,S
+160,770,ENGENHARIA DE SOFTWARE                                                          ,S
+160,771,MATEMATICA COMPUTACIONAL                                                        ,S
+160,772,SISTEMAS DE INFORMACAO                                                          ,S
+160,773,SISTEMAS OPERACIONAIS                                                           ,S
+160,774,"SOFTWARE, ANALISE ESTATISTICA                                                   ",S
+160,780,ENGENHARIA DA INFORMACAO                                                        ,S
+160,790,COMPUTACAO GRAFICA                                                              ,S
+160,800,APLICATIVOS - AUTOMACAO DE ESCRITORIOS                                          ,S
+160,801,INTERNET                                                                        ,S
+160,810,LINGUAGENS DE PROGRAMACAO                                                       ,S
+160,820,REDES                                                                           ,S
+160,830,TELECOMUNICACOES                                                                ,S
+160,840,SUPORTE BASICO                                                                  ,S
+160,850,ARMAZENAMENTO DE DADOS                                                          ,S
+160,860,REDES DE COMPUTADORES                                                           ,S
+160,870,SEGURANCA EM TECNOLOGIA DA INFORMACAO                                           ,S
+160,880,GESTAO EM TECNOLOGIA DA INFORMACAO                                              ,S
+160,890,TECNOLOGIAS WEB                                                                 ,S
+160,900,TELECOMUNICACOES                                                                ,S
+161,10,CIENCIA DA COMPUTACAO                                                           ,S
+161,20,SISTEMAS DE INFORMACAO                                                          ,S
+161,30,INFORMATICA                                                                     ,S
+161,40,PROCESSAMENTO DE DADOS                                                          ,S
+161,50,MATEMATICA COMPUTACIONAL                                                        ,S
+161,60,ENGENHARIA DE COMPUTACAO                                                        ,S
+161,70,ENGENHARIA DE SOFTWARE                                                          ,S
+161,80,LINGUAGENS DE PROGRAMACAO                                                       ,S
+161,90,REDES DE COMPUTADORES                                                           ,S
+161,100,TELECOMUNICACOES                                                                ,S
+161,110,SISTEMAS OPERACIONAIS                                                           ,S
+161,120,SOFTWARE BASICO                                                                 ,S
+161,130,HARDWARE                                                                        ,S
+161,140,ARMAZENAMENTO DE DADOS                                                          ,S
+161,150,BANCO DE DADOS                                                                  ,S
+161,160,TECNOLOGIAS WEB                                                                 ,S
+161,170,INTELIGENCIA ARTIFICIAL                                                         ,S
+161,180,COMPUTACAO GRAFICA                                                              ,S
+161,190,GESTAO EM TECNOLOGIA DA INFORMACAO                                              ,S
+161,200,SEGURANCA EM TECNOLOGIA DA INFORMACAO                                           ,S
+170,1,INFORMATICA                                                                     ,S
+170,20,CIENCIA DA COMPUTACAO                                                           ,S
+170,50,PROCESSAMENTO DE DADOS                                                          ,S
+170,100,DESENVOLVIMENTO DE SISTEMAS                                                     ,S
+170,150,SOFTWARE BASICO                                                                 ,S
+170,160,"SOFTWARE, ANALISE ESTATISTICA                                                   ",S
+170,200,SUPORTE BASICO                                                                  ,S
+170,250,LINGUAGENS DE PROGRAMACAO                                                       ,S
+170,300,TELECOMUNICACOES                                                                ,S
+170,350,ADMINISTRACAO DE DADOS                                                          ,S
+170,400,GERENCIADORES DE BANCO DE DADOS - GRANDE PORTE                                  ,S
+170,450,REDES                                                                           ,S
+170,500,APLICATIVOS - AUTOMACAO DE ESCRITORIOS                                          ,S
+170,501,INTERNET                                                                        ,S
+170,550,HARDWARE-MONTAGEM E CONFIGURACAO DE PC                                          ,S
+180,1,MATEMATICA                                                                      ,S
+180,3,FISICA                                                                          ,S
+180,4,QUIMICA                                                                         ,S
+180,5,MATEMATICA COMPUTACIONAL                                                        ,S
+180,20,PROBABILIDADE E ESTATISTICA                                                     ,S
+180,40,MATEMATICA FINANCEIRA                                                           ,S
+185,1,MEDICINA VETERINARIA                                                            ,S
+185,2,AGRONOMIA/ENGENHARIA AGRONOMICA                                                 ,S
+185,3,CIENCIA E TECNOLOGIA DE ALIMENTOS                                               ,S
+185,4,"COUROS, CURTUMES E TANANTES                                                     ",S
+185,5,ENG.DE PROCESSAMENTO DE PROD. AGRICOLAS                                         ,S
+185,6,FITOTECNIA                                                                      ,S
+185,7,ENGENHARIA AGRICOLA                                                             ,S
+185,8,ENGENHARIA DE ALIMENTOS                                                         ,S
+185,10,ENGENHARIA FLORESTAL                                                            ,S
+185,11,ENGENHARIA DE PESCA                                                             ,S
+185,14,TECNOLOGIA E UTILIZ. DE PROD. FLORESTAIS                                        ,S
+185,18,ZOOLOGIA                                                                        ,S
+185,20,ZOOTECNIA                                                                       ,S
+185,21,AGROPECUARIA                                                                    ,S
+185,22,ENGENHARIA AMBIENTAL                                                            ,S
+185,23,AGRICULTURA                                                                     ,S
+190,1,SEGMENTACAO DE CLIENTES                                                         ,S
+190,2,OFERTAS                                                                         ,S
+190,3,CANAIS DE ATENDIMENTO                                                           ,S
+190,4,APOIO AO NEGOCIO                                                                ,S
+190,5,APOIO AO NEGOCIO - APLICATIVOS                                                  ,S
+190,700,SERVICOS - A CLASSIFICAR/OUTROS                                                 ,S
+195,1,PSICOLOGIA                                                                      ,S
+195,20,PSICOLOGIA CLINICA                                                              ,S
+195,40,PSICOLOGIA ESCOLAR                                                              ,S
+195,60,PSICOLOGIA HOSPITALAR                                                           ,S
+195,80,PSICOLOGIA DO TRABALHO E ORGANIZACIONAL                                         ,S
+195,100,PSICOLOGIA SOCIAL                                                               ,S
+195,120,METODOS E MEDIDAS EM PSICOLOGIA                                                 ,S
+208,1,MEDICINA                                                                        ,S
+208,10,CLINICA GERAL                                                                   ,S
+208,20,ALERGIA E IMUNOLOGIA                                                            ,S
+208,30,ACUPUNTURA                                                                      ,S
+208,40,ANGIOLOGIA                                                                      ,S
+208,60,CARDIOLOGIA                                                                     ,S
+208,80,DERMATOLOGIA                                                                    ,S
+208,100,ENDOCRINOLOGIA                                                                  ,S
+208,120,GASTROENTEROLOGIA                                                               ,S
+208,140,GINECOLOGIA E OBSTETRICIA                                                       ,S
+208,160,HEMATOLOGIA                                                                     ,S
+208,180,NEFROLOGIA                                                                      ,S
+208,200,OFTALMOLOGIA                                                                    ,S
+208,220,ORTOPEDIA E TRAUMATOLOGIA                                                       ,S
+208,240,OTORRINOLARINGOLOGIA                                                            ,S
+208,260,PATOLOGIA                                                                       ,S
+208,280,PEDIATRIA                                                                       ,S
+208,300,PNEUMOLOGIA                                                                     ,S
+208,320,PSIQUIATRIA                                                                     ,S
+208,340,NEUROLOGIA                                                                      ,S
+208,360,UROLOGIA                                                                        ,S
+208,380,REUMATOLOGIA                                                                    ,S
+208,400,GENETICA                                                                        ,S
+208,420,HOMEOPATIA                                                                      ,S
+208,440,LEGISTA                                                                         ,S
+208,460,ONCOLOGIA                                                                       ,S
+208,470,EDUCACAO FISICA                                                                 ,S
+208,480,ENFERMAGEM                                                                      ,S
+208,481,ENFERMAGEM DO TRABALHO                                                          ,S
+208,482,TéCNICO/AUXILIAR DE ENFERMAGEM DO TRABALHO                                      ,S
+208,490,FARMACIA                                                                        ,S
+208,500,FISIOTERAPIA                                                                    ,S
+208,501,FONOAUDIOLOGIA                                                                  ,S
+208,502,NUTRICAO                                                                        ,S
+208,503,ODONTOLOGIA                                                                     ,S
+208,504,SAUDE COLETIVA                                                                  ,S
+208,505,SANITARISTA                                                                     ,S
+208,506,SEGURANCA E MEDICINA DO TRABALHO                                                ,S
+208,507,GASTRONOMIA                                                                     ,S
+208,508,BIOTECNOLOGIA                                                                   ,S
+230,1,SERVIÇOS                                                                        ,S
+230,2,CIENCIAS IMOBILIARIAS                                                           ,S
+230,999,SERVIÇOS                                                                        ,S
+400,200,CONHECENDO O CLIENTE                                                            ,S
+900,990,A CLASSIFICAR                                                                   ,S

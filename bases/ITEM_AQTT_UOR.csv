@@ -1,0 +1,208 @@
+CD_ITEM_AQTT_UOR;NM_ITEM_AQTT_UOR
+2;  DIRETORIA                           
+3;  UNIDADE                             
+4;  GERENCIA EXECUTIVA                  
+5;  GERENCIA                            
+6;  SEGMENTO EM UE                      
+7;  PROJETO ESTRATEGICO                 
+8;  NUCLEO EM UA                        
+10;  ASSEMBLEIA GERAL ACIONISTAS         
+11;  CONSELHO ADMINISTRACAO              
+12;  CONSELHO FISCAL                     
+14;  COM ASSESSORAMENTO CA               
+15;  PRESI                               
+16;  VICE-PRESIDENCIA                    
+18;  COMITE EXECUTIVO ESTRATEGICO        
+19;  COMITE ESTRATEGICO                  
+20;  COMISSAO ESTRATEGICA                
+26;  SUPER NEGOCIOS                      
+29;  SUPER COMERCIAL                     
+33;  EQUIPE                              
+47;  AGENCIA GOVERNO                     
+49;  AGENCIA PODER JUDICIARIO            
+50;  AGENCIA EMPRESARIAL                 
+51;  AGENCIA CORPORATE                   
+52;  ESCRITORIO PRIVATE                  
+53;  AGENCIA ESTILO                      
+54;  AGENCIA VAREJO                      
+55;  CRBB                                
+56;  ESCRITORIO COMERCIAL                
+57;  GERENCIA DE CABB                    
+59;  PAB                                 
+60;  PAT                                 
+61;  PAA                                 
+62;  AUTO-ATENDIMENTO BB                 
+63;  PAE                                 
+64;  PAP                                 
+65;  MODULO PESSOA FISICA                
+68;  MODULO PESSOA JURIDICA              
+69;  MODULO EM UA EX                     
+72;  MODULO NEGOCIOS ESPECIALIZADOS      
+73;  MODULO SERVICOS                     
+74;  MODULO EM UA                        
+75;  MODULO PRE-ATENDIMENTO              
+77;  AGENCIA NO EXTERIOR                 
+78;  ESCRITORIO NO EXTERIOR              
+79;  SUBAGENCIA NO EXTERIOR              
+80;  POSTO ATENDIMENTO EXTERIOR          
+81;  GERENCIA DE AUDITORIA               
+82;  CCBB                                
+83;  AJURE                               
+84;  NUJUR                               
+85;  GECOI                               
+86;  GESIN                               
+87;  COMEX                               
+88;  CECAR                               
+89;  CSA                                 
+90;  CSL                                 
+91;  CSO                                 
+92;  GEPES                               
+93;  GECOR                               
+94;  OUVIDORIA                           
+96;  AREA EM UA                          
+97;  NUCLEO EM UT                        
+98;  SETOR EM UA                         
+99;  GRUPO EM UA                         
+102;  GEREC                               
+104;  CEMED                               
+105;  COMITE DE REDE                      
+106;  SERVICING CENTER                    
+109;  PLATAFORMA CORPORATE                
+113;  PSO                                 
+115;  SOP                                 
+116;  TELEMATICA                          
+117;  UOR VIRTUAL                         
+119;  CORRESPONDENTES                     
+143;OUTRAS
+144;OUTRAS
+145;OUTRAS
+146;OUTRAS
+148;  A CLASSIFICAR                       
+149;  CESEC                               
+155;OUTRAS
+157;OUTRAS
+164;OUTRAS
+168;OUTRAS
+169;OUTRAS
+171;OUTRAS
+172;OUTRAS
+175;OUTRAS
+177;OUTRAS
+180;OUTRAS
+181;  PLATAFORMA EM UA                    
+185;  GERAG                               
+187;  SUPER ATACADO                       
+188;  SEGMENTO RELACIONAMENTO EM UN       
+189;  GERENCIA REGIONAL EMPRESARIAL       
+190;  TIPOLOGIA EXTINTA                   
+191;  UOR TESTE TI                        
+196;  SEGMENTO EM UA                      
+197;  SEGMENTO ADMINISTRATIVO EM UT       
+200;  SEGMENTO NEGOCIOS ESPECIALIZADOS    
+201;  PLATAFORMA NEGOCIOS ESPECIALIZADOS  
+202;  AGENCIA LARGE CORPORATE             
+204;  A CLASSIFICAR - SB                  
+205;  UOR TESTE TI - SB                   
+207;  MODULO ATENDIMENTO                  
+208;  MODULO APOIO ADMINISTRATIVO         
+209;  MODULO COMPLEMENTO NEGOCIAL         
+210;  MODULO A CLASSIFICAR                
+211;  SEGMENTO SERVICOS EM UN             
+212;  SEGMENTO NEGOCIAL EM UN             
+213;  SEGMENTO ADMINISTRATIVO EM UN       
+214;  AGENCIA SETOR PUBLICO               
+216;  MODULO GOVERNO                      
+217;  PLATAFORMA ALTA RENDA               
+218;  PLATAFORMA LARGE CORPORATE          
+219;  PLATAFORMA EMPRESARIAL              
+220;  PLATAFORMA GOVERNO                  
+221;  PLATAFORMA PRIVATE                  
+225;  NUCLEO EM UE                        
+226;  SEGMENTO MERCADO EM UT              
+227;  MODULO DRS EM UT                    
+228;  SUPERVISAO                          
+229;  COORDENADORIA EM UA                 
+230;  AREA EM UN                          
+231;  SETOR EM UN                         
+232;  GRUPO EM UN                         
+238;  GIMOB                               
+240;OUTRAS
+242;OUTRAS
+890;OUTRAS
+891;OUTRAS
+893;OUTRAS
+896;OUTRAS
+900;OUTRAS
+909;  SEGMENTO NEGOCIAL NO EXTERIOR       
+910;  SEGMENTO ADMINISTRATIVO NO EXTERIOR 
+911;  MODULO ADMINISTRATIVO NO EXTERIOR   
+912;  MODULO NEGOCIAL NO EXTERIOR         
+916;OUTRAS
+917;OUTRAS
+918;OUTRAS
+919;  CENOP                               
+920;  PLATAFORMA CESUP CENOP              
+956;OUTRAS
+957;OUTRAS
+958;  GERAC                               
+978;OUTRAS
+987;  AREA EM UA EX                       
+989;OUTRAS
+1002;OUTRAS
+1003;OUTRAS
+1004;OUTRAS
+1005;OUTRAS
+1017;OUTRAS
+1024;OUTRAS
+1027;  SAC                                 
+1062;OUTRAS
+1063;OUTRAS
+1064;  SUPER PRIVATE                       
+1069;  CESIN                               
+1075;OUTRAS
+1096;  GENAC                               
+1099;  PROGRAMA ESTRATEGICO                
+1100;OUTRAS
+1346;OUTRAS
+1353;  ESCRITORIO NEGOCIOS                 
+1358;OUTRAS
+1360;OUTRAS
+1362;OUTRAS
+1376;  LABB                                
+1377;  GPRED                               
+1741;  GCASH                               
+1742;  CESUP                               
+1752;  GEINV                               
+1755;  AGENCIA EMPRESA                     
+1756;  MODULO RELACIONAMENTO DIGITAL PF    
+1757;  MODULO RELACIONAMENTO DIGITAL PJ    
+1758;  MODULO SUPORTE E APOIO AOS NEGOCIOS 
+1761;  ESCRITORIO ATEND ATACADO            
+1764;OUTRAS
+1765;OUTRAS
+1768;  PLATAFORMA EMPRESA                  
+1769;  ESCRITORIO MERCAP                   
+1775;  SEGMENTO VAREJO EM UT               
+1776;  SUPER ADM                           
+1783;OUTRAS
+1786;  ESCRITORIO COMEX                    
+1789;  COORDENADORIA EM UE                 
+1815;  SEGMENTO CONTROLE NO EXTERIOR       
+1816;  MODULO CONTROLE NO EXTERIOR         
+1817;  SALA CONVENIENCIA NO EXTERIOR       
+1818;  PLATAFORMA ESCRITORIO DE NEGOCIOS   
+1820;  MODULO EM UN                        
+1828;  CAD BB                              
+1839;  LOJA BB                             
+1851;OUTRAS
+1853;OUTRAS
+1855;OUTRAS
+1857;OUTRAS
+1858;  PSV                                 
+1859;  AGENCIA AGRO                        
+1860;  PLATAFORMA AGRO                     
+1884;  PLATAFORMA EM UE                    
+1885;  GENAP                               
+1889;  COMITE ELBB                         
+1890;OUTRAS
+1891;OUTRAS
